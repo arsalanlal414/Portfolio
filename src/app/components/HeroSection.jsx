@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            A Full Stack Developer and UI/UX Designer dedicated to 
+            A Full Stack Developer specialized in MERN Stack dedicated to 
             crafting seamless and engaging digital experiences.
           </p>
           <div>
