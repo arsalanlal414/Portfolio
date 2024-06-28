@@ -52,12 +52,12 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "React Tabs switch",
-    description: "React Tabs Switch: A simple, customizable React component for smooth tabbed navigation.",
-    image: "/images/projects/Tabs.png",
+    title: "WIW Bank",
+    description: "Revolutionizing payments with the next generation of secure and efficient transaction methods.",
+    image: "/images/projects/wiw-bank.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/arsalanlal414/chai-aur-react",
-    previewUrl: "http://tabs-06.surge.sh",
+    gitUrl: "https://github.com/arsalanlal414/WIW-Bank",
+    previewUrl: "https://wiw-bank.surge.sh",
   },
 ];
 
