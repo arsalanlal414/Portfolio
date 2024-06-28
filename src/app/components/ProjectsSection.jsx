@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "Receipe Master",
-    description: "Receipe Master is a website which helps to see the recipes of different foods. It is built with react have integrated the Food API to navigate more easily.",
+    description: "A React-based app integrating Food API for effortless discovery of diverse, global recipes.",
     image: "/images/projects/recipeApp.png",
     tag: ["All", "Mobile", "Web"],
     gitUrl: "https://github.com/arsalanlal414/recipe_master",
