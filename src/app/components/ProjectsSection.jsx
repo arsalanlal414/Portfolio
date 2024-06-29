@@ -25,6 +25,15 @@ const projectsData = [
   },
   {
     id: 3,
+    title: "WIW Bank",
+    description: "Revolutionizing payments with the next generation of secure and efficient transaction methods.",
+    image: "/images/projects/wiw-bank.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/arsalanlal414/WIW-Bank",
+    previewUrl: "https://wiw-bank.surge.sh",
+  },
+  {
+    id: 4,
     title: "Nexcent Landing Page",
     description: "Nexcent Landing Page build with React. I have created a responsive User Interface to help the user navigate easily",
     image: "/images/projects/nexcent_landing_page.png",
@@ -32,15 +41,8 @@ const projectsData = [
     gitUrl: "https://github.com/arsalanlal414/Nexcent_LandingPage",
     previewUrl: "http://nexcentt.surge.sh/",
   },
-  {
-    id: 4,
-    title: "Receipe Master",
-    description: "A React-based app integrating Food API for effortless discovery of diverse, global recipes.",
-    image: "/images/projects/recipeApp.png",
-    tag: ["All", "Mobile", "Web"],
-    gitUrl: "https://github.com/arsalanlal414/recipe_master",
-    previewUrl: "http://recipemasters.surge.sh",
-  },
+  
+ 
   {
     id: 5,
     title: "Chat App",
@@ -52,13 +54,14 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "WIW Bank",
-    description: "Revolutionizing payments with the next generation of secure and efficient transaction methods.",
-    image: "/images/projects/wiw-bank.png",
-    tag: ["All", "Web"],
-    gitUrl: "https://github.com/arsalanlal414/WIW-Bank",
-    previewUrl: "https://wiw-bank.surge.sh",
+    title: "Receipe Master",
+    description: "A React-based app integrating Food API for effortless discovery of diverse, global recipes.",
+    image: "/images/projects/recipeApp.png",
+    tag: ["All", "Mobile", "Web"],
+    gitUrl: "https://github.com/arsalanlal414/recipe_master",
+    previewUrl: "http://recipemasters.surge.sh",
   },
+  
 ];
 
 const ProjectsSection = () => {
