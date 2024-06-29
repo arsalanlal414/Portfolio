@@ -15,6 +15,7 @@ const achievementsList = [
   {
     metric: "Git Repositories",
     value: "50",
+    postfix: "+",
   },
   {
     postfix: "+",
