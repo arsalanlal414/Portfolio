@@ -4,23 +4,23 @@ import React, { useState, useEffect } from "react";
 const achievementsList = [
   {
     metric: "Projects",
-    value: "20",
+    value: "30",
     postfix: "+",
   },
   {
     postfix: "+",
     metric: "Certifications",
-    value: "45",
+    value: "17",
   },
   {
-    metric: "Awards",
-    value: "7",
+    metric: "Git Repositories",
+    value: "50",
   },
   {
     postfix: "+",
     metric: "Years",
-    value: "4",
-  },
+    value: "3",
+  }
 ];
 
 const AchievementsSection = () => {
