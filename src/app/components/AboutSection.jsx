@@ -23,7 +23,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Bootcamp - Contour Pvt Ltd.</li>
+        <li>Fullstack Bootcamp - Contour Software</li>
         <li>University of Hildesheim, Germany</li>
       </ul>
     ),
