@@ -11,6 +11,7 @@
 //     const data = await resend.emails.send({
 //       from: fromEmail,
 //       to: [fromEmail, email],
+//       // to: 'arsalanlal41@gmail.com',
 //       subject: subject,
 //       react: (
 //         <>

@@ -70,7 +70,8 @@ const EmailSection = () => {
             Email sent successfully!
           </p>
         ) : (
-          <form className="flex flex-col"
+          <form className="flex flex-col" 
+          // onSubmit={handleSubmit}
             action="https://formspree.io/f/mzzppkjr"
             method="POST"
           >
